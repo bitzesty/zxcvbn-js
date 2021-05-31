@@ -1,5 +1,7 @@
 # zxcvbn-js [![Gem Version](https://badge.fury.io/rb/zxcvbn-js.svg)](https://badge.fury.io/rb/zxcvbn-js)
 
+There is now a more compelte zxcvbn implmentation in ruby, so please check out https://github.com/formigarafa/zxcvbn-rb
+
 Fork of [zxcvbn-ruby](https://github.com/envato/zxcvbn-ruby)
 
 This fork runs the JS implementation via ExecJS so that the results are the same. 
